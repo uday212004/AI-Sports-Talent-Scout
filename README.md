@@ -168,9 +168,9 @@ streamlit run app.py
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-Add screenshots here after uploading dashboard images.
+In Main File
 
 ---
 
